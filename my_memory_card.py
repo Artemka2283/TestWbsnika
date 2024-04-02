@@ -9,7 +9,7 @@ window.setWindowTitle('Тест')
 
 
 
-
+#Надо бы доделать игру
 
 
 btn_OK = QPushButton('Ответить')
